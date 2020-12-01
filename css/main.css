@@ -55,3 +55,11 @@ header{
 ul.stage_list_name {
     margin: auto;
 }
+
+
+/* モバイル版 */
+@media (max-width: 724px){
+  .top_wrapper {
+    background-position: 0;
+  }
+}
