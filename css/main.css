@@ -58,7 +58,7 @@ ul.stage_list_name {
 
 
 /* モバイル版 */
-@media (max-width: 724px){
+@media (max-width: 1024px){
   .top_wrapper {
     background-position: 0;
   }
